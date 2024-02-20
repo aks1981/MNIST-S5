@@ -1,5 +1,5 @@
 # MNIST-S5
-MNIST dataset trained on PyTourch Module through Colab
+MNIST dataset trained on PyTorch Module through Colab
 
 # Convolutional Neural Network for Image Classification
 

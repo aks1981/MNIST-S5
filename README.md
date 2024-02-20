@@ -32,6 +32,7 @@ This Jupyter notebook demonstrates the usage of the model for training and evalu
 
 3. **Visualization:**
    - Visualize training and test results using the provided utility function `show_train_test_result` in the `utils.py` file.
+<img width="646" alt="image" src="https://github.com/aks1981/MNIST-S5/assets/24263770/6e219986-3103-4059-b705-4218b49a0480">
 
 ## Dependencies
 
